@@ -1,2 +1,2 @@
-# Network-Intrusion-Detection-Using-Machine-Learning-Techniques
-Network intrusions classification using algorithms such as Support Vector Machine (SVM), Decision Tree, Naive Baye, K-Nearest Neighbor (KNN), Logistic Regression and Random Forest.
+# Network-Intrusion-Detection-System
+Detecting and classifying network intrusions is a critical component of cybersecurity, safeguarding systems from unauthorized access and potential threats. This task is accomplished through the application of various machine learning and data analysis techniques, including but not limited to Support Vector Machine (SVM), Decision Tree, Naive Bayes, K-Nearest Neighbor (KNN), Logistic Regression, and Random Forest algorithms. These algorithms play a pivotal role in the identification, categorization, and mitigation of network intrusions, ultimately fortifying the security of digital infrastructures.
